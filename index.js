@@ -39,7 +39,6 @@ function iLoveTheBeatles(number) {
     if (number >= 15) {
       return container;
     } 
-      
     do {
       container.push(beatleLove);
       number++;
