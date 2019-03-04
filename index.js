@@ -33,19 +33,19 @@ return excFacts;
 
 ////
 
-function iLoveTheBeatles(iLoveTheBeatles) {
+function iLoveTheBeatles() {
   var container = []; 
-  var beatleLove = "I love the Beatles!"  
-  var i = 0
+  var beatleLove = "I love the Beatles!";  
+  var i = 0;
  
     do {
       container.push(beatleLove);
-      i++
+      i++;
 
     }
       while (i<8);
 
-      return container
+      return container;
       }
 
 
