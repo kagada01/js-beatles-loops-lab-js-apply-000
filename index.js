@@ -40,7 +40,7 @@ function iLoveTheBeatles(number) {
  
     do {
       container.push(beatleLove);
-      number++;
+      i++;
 
     }
       while (i<8);
