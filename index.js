@@ -33,7 +33,7 @@ return excFacts;
 
 ////
 
-function iLoveTheBeatles() {
+function iLoveTheBeatles(number) {
   var container = []; 
   var beatleLove = "I love the Beatles!";  
   var i = 0;
