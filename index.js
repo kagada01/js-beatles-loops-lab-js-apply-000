@@ -36,6 +36,7 @@ return excFacts;
 function iLoveTheBeatles(number) {
   var container = []; 
   var beatleLove = "I love the Beatles!";  
+   //There is nothing in the instructions that discusses the 
     if (number === 17) {
       container.push(beatleLove);
       return container;
