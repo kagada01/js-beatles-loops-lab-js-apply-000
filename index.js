@@ -36,7 +36,6 @@ return excFacts;
 function iLoveTheBeatles(number) {
   var container = []; 
   var beatleLove = "I love the Beatles!";  
-  var number = 0;
  
     do {
       container.push(beatleLove);
