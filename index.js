@@ -36,14 +36,14 @@ return excFacts;
 function iLoveTheBeatles(number) {
   var container = []; 
   var beatleLove = "I love the Beatles!";  
-  var i = 0;
+  var number = 0;
  
     do {
       container.push(beatleLove);
-      i++;
+      number++;
 
     }
-      while (i<8);
+      while (number<8);
 
       return container;
       }
